@@ -1,0 +1,47 @@
+/* body {
+    background: linear-gradient(to right, #ff7e5f, #feb47b);
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+} */
+
+/* Apply an ocean breeze gradient as the background */
+body {
+    background: linear-gradient(to right, #00c9ff, #92fe9d);
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+/* Apply a purple passion gradient as the background */
+/* body {
+    background: linear-gradient(to right, #6a1b9a, #8e24aa);
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+} */
+
+/* body {
+    background: linear-gradient(to right, #ffc107, #ff5722);
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+} */
+
+/* Apply a minty fresh gradient as the background */
+/* body {
+    background: linear-gradient(to right, #48c9b0, #16a085);
+    height: 100vh;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+} */
