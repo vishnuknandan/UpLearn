@@ -24,6 +24,7 @@ This project is built with the mission to make early learning accessible to ever
 ## 📄 License
 This project is licensed under the MIT License.
 
+
 ## 🙏 Acknowledgements
 - Inspired by the need for inclusive education
 - Thanks to open-source libraries and accessibility standards
