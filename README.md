@@ -8,6 +8,7 @@ This project is built with the mission to make early learning accessible to ever
 
 ## 🌐 Live Demo [(https://up-learn-nine.vercel.app/)]
 
+
 ## ⚙️ Features
 
 ✅ Interactive alphabet display (A-Z)
