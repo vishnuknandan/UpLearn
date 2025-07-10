@@ -4,6 +4,7 @@ A web-based learning tool designed to help blind and mentally challenged student
 
 ## 🧠 Purpose
 
+
 This project is built with the mission to make early learning accessible to everyone, especially those with visual and cognitive impairments. The platform provides a simple, clear, and supportive interface for recognizing and interacting with alphabets.
 
 ## 🌐 Live Demo [(https://up-learn-nine.vercel.app/)]
